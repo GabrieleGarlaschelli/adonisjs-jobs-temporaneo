@@ -1,9 +1,9 @@
 {
-  "name": "adonisjs-jobs",
+  "name": "@likable-hair/adonisjs-jobs-temporaneo",
   "description": "Job processing for AdonisJS",
   "homepage": "https://github.com/KABBOUCHI/adonisjs-jobs#readme",
   "license": "MIT",
-  "author": "Georges KABBOUCHI <georges.kabbouchi@gmail.com>",
+  "author": "Gabriele Garlaschelli <gabriele.garlaschelli.gg@gmail.com>",
   "keywords": [
     "adonisjs",
     "jobs",
